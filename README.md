@@ -10,9 +10,9 @@ TO-DO
 * Fix for BTC Wallet Output Logic
 
 Example Config:
-{
+```{
   "Settings": {
     "AccountSearchDirectory": "C:\\Users\\admin\\Documents\\",
     "Extension": ".xl*" // txt, js, py, cnf, conf, xls, xlsx, xlsm, json, bat, cmd, cs, xml
   }
-}
+}```
