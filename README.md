@@ -15,4 +15,4 @@ Example Config:
     "AccountSearchDirectory": "C:\\Users\\admin\\Documents\\",
     "Extension": ".xl*" // txt, js, py, cnf, conf, xls, xlsx, xlsm, json, bat, cmd, cs, xml
   }
-}```
+}
