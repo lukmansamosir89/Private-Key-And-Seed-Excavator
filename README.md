@@ -1,7 +1,7 @@
 # Private-Key-And-Seed-Excavator
 This console application is designed to filter files with a user-defined extension within a user-specified folder. It extracts Ethereum private keys and seed phrases from these files and provides their corresponding public addresses as output.
 
-![Excavator Gif Loading]([https://raw.githubusercontent.com/tractorAside/Dextools-Trending-Bot/main/DextoolsTrending.gif](https://raw.githubusercontent.com/tractorAside/Private-Key-And-Seed-Excavator/main/excavator.gif))
+![Excavator Gif Loading]((https://raw.githubusercontent.com/tractorAside/Private-Key-And-Seed-Excavator/main/excavator.gif)
 
 Features
 * Customizable Folder and Extension: Users can specify the folder path and file extension to scan for Ethereum private keys and seed phrases.
